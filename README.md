@@ -28,8 +28,8 @@ This is part of the Cyfrin Updraft Vyper Course.
 ## Installation
 
 ```bash
-git clone https://github.com/cyfrin/mox-buy-me-a-coffee-cu
-cd mox-buy-me-a-coffee-cu
+git clone https://github.com/Shiro92-Solidity/Mox-buy-me-a-coffee-cu
+cd Mox-buy-me-a-coffee-cu
 ```
 
 ## Quickstart
